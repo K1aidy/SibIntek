@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SibIntek", "SibIntek\SibIntek.csproj", "{2E058F29-B1A9-47D7-BBB7-208AE7B3FA5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SibIntek.Test", "SibIntek.Test\SibIntek.Test.csproj", "{50678059-5AF5-4E04-822E-8C442F2E999A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2E058F29-B1A9-47D7-BBB7-208AE7B3FA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E058F29-B1A9-47D7-BBB7-208AE7B3FA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E058F29-B1A9-47D7-BBB7-208AE7B3FA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50678059-5AF5-4E04-822E-8C442F2E999A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50678059-5AF5-4E04-822E-8C442F2E999A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50678059-5AF5-4E04-822E-8C442F2E999A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50678059-5AF5-4E04-822E-8C442F2E999A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

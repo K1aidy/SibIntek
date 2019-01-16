@@ -6,7 +6,15 @@ namespace SibIntek
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			var input = Console.ReadLine();
+
+			var changer = new Changer();
+
+			var output = changer.ChangeFirstNumber(input);
+
+			Console.WriteLine(output);
+
+			Console.ReadLine();
 		}
 	}
 }
